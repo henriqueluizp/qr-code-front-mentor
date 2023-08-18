@@ -38,4 +38,9 @@ body {
 
 .description .title {
   font-weight: 700;
+  font-size: 1.15rem;
+}
+
+.description {
+  font-size: 0.9rem;
 }
