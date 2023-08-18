@@ -34,6 +34,7 @@ body {
 .description {
   text-align: center;
   font-size: 1.1rem;
+  color: var(--Dark-blue);
 }
 
 .description .title {
