@@ -3,5 +3,5 @@
 
  https://youtu.be/iY9fpS2Wncg
 
- 
-https://github.com/henriqueluizp/qr-code-front-mentor/assets/122624168/bda87014-1ab6-42cb-97bd-6b2d70f1deb3
+
+![desktop-design](https://github.com/henriqueluizp/qr-code-front-mentor/assets/122624168/dd288118-8786-40f0-8aad-6ff9bb32e3c3)
